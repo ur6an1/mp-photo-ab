@@ -1,0 +1,7 @@
+# Python 3.11+; compatible ranges, not claims of testing every combination.
+numpy>=1.26,<3
+scipy>=1.11,<2
+Pillow>=10,<13
+openpyxl>=3.1,<4
+openai>=2,<4
+PyYAML>=6,<7

@@ -1,0 +1,12 @@
+{
+  "sku": "DEMO-001",
+  "marketplace": "Wildberries",
+  "category": "Товары для дома — учебный пример",
+  "audience": "Учебный пример: покупатели настольной лампы",
+  "usps": ["Учебный пример: компактный корпус"],
+  "price_segment": "Учебный пример: средний",
+  "current_image": "control.jpg",
+  "reference_images": ["reference.jpg"],
+  "competitor_images": [],
+  "baseline": {"days": 14, "impressions": 140000, "clicks": 14000, "cart": 5000, "orders": 1400}
+}

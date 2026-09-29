@@ -1,0 +1,15 @@
+date,variant,impressions,clicks,cart,orders,advertising_changed,out_of_stock,price_changed
+2026-09-01,control,5000,500,200,50,False,False,False
+2026-09-01,B,5000,500,200,100,False,False,False
+2026-09-02,control,5000,500,200,50,False,False,False
+2026-09-02,B,5000,500,200,100,False,False,False
+2026-09-03,control,5000,500,200,50,False,False,False
+2026-09-03,B,5000,500,200,100,False,False,False
+2026-09-04,control,5000,500,200,50,False,False,False
+2026-09-04,B,5000,500,200,100,False,False,False
+2026-09-05,control,5000,500,200,50,False,False,False
+2026-09-05,B,5000,500,200,100,False,False,False
+2026-09-06,control,5000,500,200,50,False,False,False
+2026-09-06,B,5000,500,200,100,False,False,False
+2026-09-07,control,5000,500,200,50,False,False,False
+2026-09-07,B,5000,500,200,100,False,False,False

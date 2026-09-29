@@ -1,0 +1,6 @@
+interface:
+  display_name: "Фото WB/Ozon: A/B-тест"
+  short_description: "Варианты главного фото и честный анализ A/B-теста"
+  default_prompt: "Используй $mp-photo-ab: помоги мне проверить главное фото карточки WB/Ozon и спланировать A/B-тест без выдуманных выводов."
+policy:
+  allow_implicit_invocation: true
